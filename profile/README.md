@@ -4,7 +4,7 @@
 
 Here you will find the kernel, device tree, and Android sources for your MSM8212/MSM8210 Lumia.
 
-This project is in the experimental phase because I only tested the LineageOS Recovery and TWRP in 2022
+This project is in the experimental phase because I only tested the LineageOS Recovery and TWRP in 2022 but soon i will test Android on a SD Card
 
 
 <!--
